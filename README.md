@@ -1,1 +1,1 @@
-Pendaftaran-Siswa
+Pendaftaran siswa
